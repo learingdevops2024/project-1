@@ -10,7 +10,7 @@ curl -o /tmp/backend.zip https://expense-artifacts.s3.amazonaws.com/expense-back
 
 cd /app
 unzip /tmp/backend-v2.zip
-cd/app
+cd /app
 
 npm install
 
